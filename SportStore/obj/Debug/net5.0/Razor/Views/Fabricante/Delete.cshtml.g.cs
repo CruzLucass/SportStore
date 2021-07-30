@@ -27,7 +27,7 @@ using SportStore.Models.ViewModels;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e124a88f7017def23dd180015d631194917daae9", @"/Views/Fabricante/Delete.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d3f5d5ec41141154de02004c99b74aa484605b2e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e029ab5a91bd00d5e5bb1adf9aa1a51b0e3a5b0b", @"/Views/_ViewImports.cshtml")]
     public class Views_Fabricante_Delete : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<SportStore.Models.Fabricante>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("type", "hidden", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

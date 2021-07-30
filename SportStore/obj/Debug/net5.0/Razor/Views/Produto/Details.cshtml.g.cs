@@ -27,7 +27,7 @@ using SportStore.Models.ViewModels;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"660d7147dacac33613a95808bf6d890fbb848b3f", @"/Views/Produto/Details.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d3f5d5ec41141154de02004c99b74aa484605b2e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e029ab5a91bd00d5e5bb1adf9aa1a51b0e3a5b0b", @"/Views/_ViewImports.cshtml")]
     public class Views_Produto_Details : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<SportStore.Models.Produto>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Edit", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
